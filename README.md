@@ -1,5 +1,5 @@
 ## MiniCorpus: A Lemmatized Word Frequency Analysis of Classic Children's Stories**  
-A lightweight, academic-style NLP project that analyzes common word usage in classic children's literature.
+This is a simple NLP project created to explore common word usage in classic children's literature.
 
 ### 📚 Books Analyzed
 - *Pollyanna* by Eleanor H. Porter
