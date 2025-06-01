@@ -20,6 +20,9 @@ This is a simple NLP project created to explore common word usage in classic chi
 git clone https://github.com/thecognicode/mini_corpus_project.git
 
 python -m venv venv
+
 venv\Scripts\activate
+
 pip install -r requirements.txt
+
 python -m spacy download en_core_web_sm
