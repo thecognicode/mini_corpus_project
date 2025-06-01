@@ -1,4 +1,4 @@
-## MiniCorpus: A Lemmatized Word Frequency Analysis of Classic Children's Stories**  
+## MiniCorpus: Analyzing Lemmatized Word Frequencies in Classic Children’s Literature
 This is a simple NLP project created to explore common word usage in classic children's literature.
 
 ### 📚 Books Analyzed
