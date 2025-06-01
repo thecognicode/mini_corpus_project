@@ -28,14 +28,9 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 
 
+
 ### Special Thanks
 
-to Project Gutenberg for providing free access to stories like:
-
-- Pollyanna by Eleanor H. Porter
-
-- Winnie-the-Pooh by A. A. Milne
-
-- Peter Pan by J. M. Barrie
+Thanks to Project Gutenberg for making Pollyanna by Eleanor H. Porter, Winnie-the-Pooh by A. A. Milne, and Peter Pan by J. M. Barrie freely available to the public.
 
 
