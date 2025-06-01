@@ -2,9 +2,9 @@
 This is a simple NLP project created to explore common word usage in classic children's literature.
 
 ### 📚 Books Analyzed
-- *Pollyanna* by Eleanor H. Porter
-- *Winnie-the-Pooh* by A. A. Milne
-- *Peter Pan* by J. M. Barrie
+- Pollyanna by Eleanor H. Porter
+- Winnie-the-Pooh by A. A. Milne
+- Peter Pan by J. M. Barrie
 
 ### Project Overview
 - Scrapes full text of the books from Project Gutenberg
