@@ -31,6 +31,6 @@ python -m spacy download en_core_web_sm
 
 ### Special Thanks
 
-Thanks to Project Gutenberg for making Pollyanna by Eleanor H. Porter, Winnie-the-Pooh by A. A. Milne, and Peter Pan by J. M. Barrie freely available to the public.
+Thanks to Project Gutenberg for making books like Pollyanna by Eleanor H. Porter, Winnie-the-Pooh by A. A. Milne, and Peter Pan by J. M. Barrie freely available to the public.
 
 
