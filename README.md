@@ -15,7 +15,7 @@ This is a simple NLP project created to explore common word usage in classic chi
   - Word clouds as PNG images
 
 
-### 1. How to Run
+### How to Run
 
 git clone https://github.com/thecognicode/mini_corpus_project.git
 
